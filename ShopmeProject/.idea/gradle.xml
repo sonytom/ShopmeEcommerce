@@ -8,7 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ShopmeBackEnd" />
             <option value="$PROJECT_DIR$/ShopmeCommon" />
+            <option value="$PROJECT_DIR$/ShopmeWebParent" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -18,6 +20,25 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/ShopmeCommon" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ShopmeWebParent" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ShopmeWebParent" />
+            <option value="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd" />
           </set>
         </option>
       </GradleProjectSettings>
